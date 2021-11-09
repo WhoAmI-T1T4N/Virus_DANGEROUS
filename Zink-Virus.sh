@@ -24,6 +24,7 @@ echo $green "1). Link Virus TROJANS"
 echo $green "2). Link Virus EXE"
 echo $green "3). Link Virus PC"
 echo $black "====================================="
+
 read -p "Pilih Link Virusnya :" saha
 fi
 
@@ -59,6 +60,7 @@ then
 echo $white "https://chat.whatsapp.com/EfnBy4ikANGHIxmyWSkVSC"
 echo $white "Silakan Join Link GCnya"
 echo $white "Thanks"
+
 fi
 
 if [ $santai = "3" ]
@@ -66,4 +68,5 @@ then
 figlet Selamat
 figlet Tinggal
 exit
+
 fi
