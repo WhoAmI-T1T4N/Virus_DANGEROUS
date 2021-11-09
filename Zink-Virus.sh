@@ -33,6 +33,7 @@ echo $yellow "Sedangg Menunggu....."
 echo $yellow "Sipp, Maaf Menunggu..."
 echo $yellow "Link : https://www.mediafire.com/file/btffebdhkry46s0"
 echo $yellow "Maaf, Telah Menunggu"
+
 fi
 
 if [ $saha = "2" ]
@@ -41,6 +42,7 @@ echo $yellow "Sedang Menunggu....."
 echo $yellow "Sipp, Maaf Menunggu..."
 echo $yellow "Link : https://www.mediafire.com/file/kiwpmbv0cxsvqhu/
 echo $yellow "Maaf, Telah Menunggu"
+
 fi
 
 if [ $saha = "3" ]
@@ -49,6 +51,7 @@ echo $yellow "Sedang, Menunggu......"
 echo $yellow "Sipp, Maaf Menunggu..."
 echo $yellow "Link : https://www.mediafire.com/file/btffebdhkry46s0"
 echo $yellow "Maaf, Menunggu..."
+
 fi
 
 if [ $santai = "2" ]
