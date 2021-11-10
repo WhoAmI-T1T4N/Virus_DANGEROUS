@@ -15,6 +15,7 @@ echo $black "===================================="
 echo $yellow "1). Link-Virus"
 echo $yellow "2). Link-GC"
 echo $yellow "3). Exit"
+echo $black "===================================="
 read -p "Jangan Lupa Pilih :" santai
 
 if [ $santai = "1" ]
@@ -24,8 +25,8 @@ echo $green "1). Link Virus TROJANS"
 echo $green "2). Link Virus EXE"
 echo $green "3). Link Virus PC"
 echo $black "====================================="
-
 read -p "Pilih Link Virusnya :" saha
+
 fi
 
 if [ $saha = "1" ]
